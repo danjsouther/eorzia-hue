@@ -1,0 +1,11 @@
+{
+	"hue": {
+		"host": "",
+		"username": "",
+		"scenes": {
+			"day": "FF XIV Day",
+			"night": "FF XIV Night"
+		}
+	},
+	"fontPath": "figfonts/"
+}
